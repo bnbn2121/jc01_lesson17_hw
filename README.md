@@ -1,2 +1,2 @@
 # jc01_lesson17_hw
-JavaStudy
+Console application for managing a coffee shop
